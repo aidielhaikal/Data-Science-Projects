@@ -11,7 +11,7 @@ Feel free to click on the project names to access more details, including code, 
 ### 1. Project 1 Name
 
 - Description: One of the introductory project I did in my university which leverage on the Iris dataset from sklearn library. The classes of the flowers are determined based on 4 criteria, petal length, petal width, sepal length and sepal width using Logistic Regression.
-- Folder: [project1_folder](Classification - Iris dataset/)
+- Folder: [Classification - Iris dataset](Classification - Iris dataset/)
 - Key Files: iris classifier.ipynb
 
 ...
