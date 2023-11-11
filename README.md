@@ -18,7 +18,7 @@ Feel free to click on the project names to access more details, including code, 
 ### 2. Prediction of Credit Card Default
 
 - Description: Introduction project from Kaggle aiming to predict whether a credit card user is likely to be defaulted based on the demographic factors and historical payments record. 
-- Folder: [Classification - CC Default Prediction](Classification%20-%20credit%20card%20approval)
+- Folder: [Classification - Credit Card Approval](Classification%20-%20credit%20card%20approval)
 - Key Files: cc_application.ipynb
 ...
 
